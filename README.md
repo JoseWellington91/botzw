@@ -1,2 +1,2 @@
-# botz
+# botzw
 Bot for Telegram
